@@ -4,25 +4,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## 初始化项目
 
-yarn create react-app react-antd-admin-ts --template=typescript
+`yarn create react-app react-antd-admin-ts --template=typescript`
 
 ### 添加Antd
 
-yarn add antd
+`yarn add antd`
 
 ### 添加axois
 
-yarn add axios
+`yarn add axios`
 
 ### 添加
 
-yarn add nprogress @types/nprogress
+`yarn add nprogress @types/nprogress`
 
 ### 添加路由
 
-yarn add react-router-dom @types/react-router-dom
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+`yarn add react-router-dom @types/react-router-dom`
